@@ -1,0 +1,58 @@
+hr{
+	border: 2px solid purple;
+	margin-left: 3px;
+	width: 110px;
+}
+div div{
+	width: 200px;
+	height: 200px;
+	border: 3px solid purple;
+	margin: 5px; 
+	display: inline-block;   
+}
+.morado{	
+	background-image: url("../img/profile-1.png");
+	-webkit-filter: blur(1px);
+
+}
+.rosa{
+
+	background-image: url("../img/profile-2.png");
+	-webkit-filter: blur(1px);
+}
+.azul{
+
+	background-image: url("../img/profile-3.png");
+    -webkit-filter: blur(1px);
+}
+
+.rojo{
+    background-image: url("../img/profile-4.png");
+    -webkit-filter: blur(1px);
+
+}
+.verde{
+	background-image: url("../img/profile-5.png");
+    -webkit-filter: blur(1px);
+
+}
+.amarillo{
+	background-image: url("../img/profile-6.png");
+	-webkit-filter: blur(1px);
+
+}	
+p{
+	text-align: right;
+	padding-top: 150px;
+	
+	color: #ffffff
+}
+
+body{
+	 background-image: url("http://ideasdeeventos.com/wp-content/uploads/2015/03/primavera-flores-bonitas-ideas-fiesta-tematica.jpg");
+}
+h1{
+	font-family: Arial;
+	font-size: 30px;
+	color:  #4d0066
+}
